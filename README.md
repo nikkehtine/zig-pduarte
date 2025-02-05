@@ -47,7 +47,8 @@ pub fn main() !void {
 zig build-exe src/main.zig
 ```
 
+- `build`
+- `run`
 - `build-exe`
 - `build-lib`
 - `build-obj`
-- `run`
