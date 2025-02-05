@@ -50,3 +50,4 @@ zig build-exe src/main.zig
 - `build-exe`
 - `build-lib`
 - `build-obj`
+- `run`
